@@ -1,16 +1,3 @@
-### Hi there 👋
-🛠 Tools I'm Using:
-JavaScript React Node.js MongoDB HTML5 CSS3 Git
-
-
-projects i made:
-
-[My action site](https://myauctionsite.netlify.app/)
-
-[Portfolio](https://hiremeachitya.netlify.app/)
-
-
-
 
 <h1 align="center">Hi 👋, I'm Achiya</h1>
 <h3 align="center">A Fullsatck developer from Israel</h3>
