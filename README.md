@@ -16,7 +16,7 @@ projects i made:
 
 [Portfolio](https://hiremeachitya.netlify.app/)
 
-[Portfolio](https://hava-ve-adam.netlify.app/
+[Hava-ve-Adam](https://hava-ve-adam.netlify.app/
 )
 
 <!--
